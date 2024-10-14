@@ -1,2 +1,2 @@
 # NBA_In_Season_Tournament_Champion_Data
-In this repository I have collected tons of data on NBA teams: pre-knockout rounds of the NBA In-Season Tournament. 
+With the introduction of the new NBA In-Season Tournament, I wil being to gather pre-knockout round NBA team data as the years go on.
